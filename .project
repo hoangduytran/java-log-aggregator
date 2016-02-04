@@ -45,4 +45,31 @@
 		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/webapp/WEB-INF/external/index.html</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/programming/hospital/index.html</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/external/css/general.css</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/programming/hospital/css/general.css</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/external/css/header.css</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/programming/hospital/css/header.css</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/external/css/sidebar.css</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/programming/hospital/css/sidebar.css</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/external/scripts/sidebar_menu.js</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/programming/hospital/scripts/sidebar_menu.js</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
